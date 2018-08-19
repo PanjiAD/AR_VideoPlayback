@@ -123,11 +123,9 @@ namespace Vuforia
 		
 		
      //Play Sound, IF detect an target
-
-            if (mTrackableBehaviour.TrackableName == "plane")
-            {
+     
                 playSound("sounds/Maroon5-GrilsLikeYou");
-            }
+            
 
         }
 
